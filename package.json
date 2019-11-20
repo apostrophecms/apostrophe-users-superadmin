@@ -1,0 +1,27 @@
+{
+  "name": "apostrophe-users-hidden-admin",
+  "version": "1.0.0",
+  "description": "Creates a hidden \"superadmin\" user that cannot be edited by regular admins and always has the admin permission. Also creates a corresponding \"superadmin\" group which is also not visible.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apostrophecms/apostrophe-users-hidden-admin.git"
+  },
+  "keywords": [
+    "apostrophecms",
+    "security",
+    "admin"
+  ],
+  "author": "P'unk Avenue LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apostrophecms/apostrophe-users-hidden-admin/issues"
+  },
+  "homepage": "https://github.com/apostrophecms/apostrophe-users-hidden-admin#readme"
+}
